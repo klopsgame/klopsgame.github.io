@@ -9,7 +9,7 @@ title: Privacy Policy — Cozy Book Sort
 *Дата набрання чинності: 5 жовтня 2026 року*
 
 Ця політика пояснює, які дані збирає мобільна гра **Cozy Book Sort** (далі — «гра») і як вони використовуються.
-Розробник: Ptaha Games (Дмитро Черних, Dmytro Chernykh). Контакт: klopsgame.support@gmail.com.
+Розробник: Ptaha Games (Дмитро Черних, Dmytro Chernykh). Контакт: ptahagames@gmail.com.
 
 ## Що гра зберігає на вашому пристрої
 Прогрес гри (рівні, зірки, монети, придбані предмети бібліотеки, налаштування звуку й музики) зберігається
@@ -48,7 +48,7 @@ title: Privacy Policy — Cozy Book Sort
 Ця політика може оновлюватися; нова версія публікується за цим самим посиланням із новою датою.
 
 ## Контакт
-Питання щодо конфіденційності: klopsgame.support@gmail.com.
+Питання щодо конфіденційності: ptahagames@gmail.com.
 
 ---
 
@@ -57,7 +57,7 @@ title: Privacy Policy — Cozy Book Sort
 *Effective date: October 5, 2026*
 
 This policy explains what data the mobile game **Cozy Book Sort** (the "game") collects and how it is used.
-Developer: Ptaha Games (Dmytro Chernykh). Contact: klopsgame.support@gmail.com.
+Developer: Ptaha Games (Dmytro Chernykh). Contact: ptahagames@gmail.com.
 
 ## What the game stores on your device
 Your game progress (levels, stars, coins, library items bought, sound and music settings) is stored **only on
@@ -95,4 +95,4 @@ The game is not directed to children under 13 and does not knowingly collect the
 This policy may be updated; the new version is published at the same address with a new date.
 
 ## Contact
-Privacy questions: klopsgame.support@gmail.com.
+Privacy questions: ptahagames@gmail.com.
