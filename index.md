@@ -1,8 +1,8 @@
 ---
-title: Klops Game
+title: Ptaha Games
 ---
 
-Klops Game makes small, cozy mobile games.
+Ptaha Games makes small, cozy mobile games.
 
 ## Cozy Book Sort
 
